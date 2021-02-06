@@ -24,7 +24,7 @@ public class BikeBook extends AppCompatActivity {
 
     EditText emailtxt,phonetxt,carnotxt,datetxt,timetxt,cidtxt;
     Button bookbtn,backbtn;
-    String url="https://majester.000webhostapp.com/insertbike.php";
+    String url="http://localhost/smartpark/insertbike.php";
     TextView responsetxt;
     RequestQueue queue;
     String email,phone,bikeno,date,time,cid;
