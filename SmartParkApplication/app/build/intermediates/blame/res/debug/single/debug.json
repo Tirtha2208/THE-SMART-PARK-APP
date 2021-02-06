@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_caricon3.jpg.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\caricon3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_booking.xml.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\layout\\activity_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_main.jpg.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\drawable-v24\\main.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bike_book.xml.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\layout\\activity_bike_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_exit.xml.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\layout\\activity_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_frontbg.jpg.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\drawable-v24\\frontbg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_car_book.xml.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\layout\\activity_car_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_caricon.jpg.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\caricon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_balance.xml.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\layout\\activity_balance.xml"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_carbg.jpg.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\drawable-v24\\carbg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_caricon4.jpg.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\caricon4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_caricon2.png.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\caricon2.png"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon.jpg.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg.jpg.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\drawable-v24\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TIRTHADEEP BASAK\\Desktop\\java\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
