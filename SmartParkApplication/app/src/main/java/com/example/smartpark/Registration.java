@@ -27,7 +27,7 @@ public class Registration extends AppCompatActivity {
     TextView responsetxt;
     RequestQueue queue;
     String email,phone,lname,fname;
-    String url="https://majester.000webhostapp.com/register.php";
+    String url="http://localhost/smartpark/register.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
