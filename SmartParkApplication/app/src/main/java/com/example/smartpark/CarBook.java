@@ -25,7 +25,7 @@ public class CarBook extends AppCompatActivity {
 
     EditText emailtxt,phonetxt,carnotxt,datetxt,timetxt,cidtxt;
     Button bookbtn,backbtn;
-    String url="https://majester.000webhostapp.com/insertcar.php";
+    String url="http://localhost/smartpark/insertcar.php";
     TextView responsetxt;
     RequestQueue queue;
     String email,phone,carno,date,time,cid;
