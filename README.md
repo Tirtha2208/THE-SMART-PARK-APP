@@ -2,7 +2,7 @@
 
 
 **Steps to Create the database in the server**
-1. Create a folder named "smartpark" in htdocs folder of the Xampp folder
+1. Create a folder named "smartpark" in htdocs folder of the Xampp folder and paste all the PHP Pages from the "Server Pages" folder
 
 2. Open your localhost phpmyadmin and create a database named "smartpark"
 
