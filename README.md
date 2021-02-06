@@ -15,4 +15,4 @@
 
 ## Some Screenshots of the App
 ![WhatsApp Image 2021-02-06 at 10 04 38 PM](https://user-images.githubusercontent.com/55202776/107124121-e2ee9800-68c7-11eb-9d80-eb15b7458d4b.jpeg)
-
+![WhatsApp Image 2021-02-06 at 10 04 38 PM (1)](https://user-images.githubusercontent.com/55202776/107124157-16312700-68c8-11eb-9a31-06327e1fa3e6.jpeg)
