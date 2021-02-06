@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".Booking">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="59dp"
+            android:layout_margin="25dp"
+            android:gravity="center"
+            android:text="Welcome to Smart Park Booking "
+            android:textColor="@android:color/background_light"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="261dp"
+            android:layout_height="66dp"
+            android:layout_gravity="right"
+            android:layout_margin="15dp"
+            android:gravity="center"
+            android:text="What do you want to book?"
+            android:textColor="@android:color/background_light"
+            android:textSize="15sp"
+            android:textStyle="bold|italic" />
+
+        <Button
+            android:id="@+id/carbook"
+            android:layout_width="182dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_margin="20dp"
+            android:background="@android:color/background_dark"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="1. Four Wheeler -->"
+            android:textColor="@android:color/background_light" />
+
+        <Button
+            android:id="@+id/bikebook"
+            android:layout_width="185dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_margin="20dp"
+            android:background="@android:color/background_dark"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="2. Two Wheeler -->"
+            android:textColor="@android:color/background_light" />
+
+        <Button
+            android:id="@+id/back"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="157dp"
+            android:layout_height="37dp"
+            android:layout_gravity="right"
+            android:layout_marginTop="80dp"
+            android:layout_marginEnd="10dp"
+            android:background="@android:color/background_dark"
+            android:fontFamily="sans-serif-black"
+            android:gravity="center"
+            android:text="Back"
+            android:textColor="@android:color/background_light" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/main"
+        android:backgroundTintMode="screen"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_margin="20dp"
+            android:gravity="center"
+            android:text="Welcome to Smart Park"
+            android:textColor="@android:color/background_light"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:text="A step to easy parking your car/bike whenever you want."
+            android:textColor="@android:color/background_light"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="188dp"
+            android:layout_height="33dp"
+            android:layout_gravity="right"
+            android:text="What do you want to do?"
+            android:textColor="@android:color/background_light"
+            android:textSize="15sp"
+            android:textStyle="italic" />
+
+        <Button
+            android:id="@+id/booking"
+            android:layout_width="142dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_margin="15dp"
+            android:background="@android:color/background_dark"
+            android:capitalize="characters"
+            android:fontFamily="sans-serif-black"
+            android:text="Book a slot ->"
+            android:textColor="@android:color/background_light" />
+
+        <Button
+            android:id="@+id/exit"
+            android:layout_width="133dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_margin="15dp"
+            android:background="@android:color/background_dark"
+            android:capitalize="characters"
+            android:fontFamily="sans-serif-black"
+            android:text="Free my slot ->"
+            android:textColor="@android:color/background_light" />
+
+        <Button
+            android:id="@+id/balance"
+            android:layout_width="198dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="250dp"
+            android:layout_marginRight="20dp"
+            android:background="@android:color/background_light"
+            android:capitalize="characters"
+            android:fontFamily="sans-serif-black"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Balance"
+            android:textColor="@color/colorAccent" />
+
+        <Button
+            android:id="@+id/register"
+            android:layout_width="198dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@android:color/background_light"
+            android:capitalize="characters"
+            android:fontFamily="sans-serif-black"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Registration"
+            android:textColor="@color/colorAccent" />
+    </LinearLayout>
+</ScrollView>
