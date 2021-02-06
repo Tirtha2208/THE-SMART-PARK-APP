@@ -11,3 +11,8 @@
 
 ## The App
 ![WhatsApp Image 2021-02-06 at 10 05 11 PM](https://user-images.githubusercontent.com/55202776/107124082-a884fb00-68c7-11eb-9009-78cfa0b7af41.jpeg)
+
+
+## Some Screenshots of the App
+![WhatsApp Image 2021-02-06 at 10 04 38 PM](https://user-images.githubusercontent.com/55202776/107124121-e2ee9800-68c7-11eb-9d80-eb15b7458d4b.jpeg)
+
