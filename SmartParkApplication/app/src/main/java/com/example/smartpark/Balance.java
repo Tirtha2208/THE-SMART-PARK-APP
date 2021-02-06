@@ -27,7 +27,7 @@ public class Balance extends AppCompatActivity {
     TextView responsetxt;
     RequestQueue queue;
     String cid;
-    String url="https://majester.000webhostapp.com/balance.php";
+    String url="http://localhost/smartpark/balance.php";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
