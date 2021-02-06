@@ -27,7 +27,7 @@ public class Exit extends AppCompatActivity {
     TextView responsetxt;
     RequestQueue queue;
     String email,id,type;
-    String url="https://majester.000webhostapp.com/alter.php";
+    String url="http://localhost/smartpark/alter.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
